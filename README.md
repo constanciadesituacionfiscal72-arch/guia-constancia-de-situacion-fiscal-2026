@@ -1,7 +1,5 @@
 # Guía Completa sobre la Constancia de Situación Fiscal en México (2026)
 
-![Constancia de Situacion Fiscal SAT](YAHAN_APNI_IMAGE_KA_LINK_DAAL_DEIN.jpg)
-
 La **Constancia de Situación Fiscal (CSF)** es uno de los documentos más importantes emitidos por el Servicio de Administración Tributaria (SAT) en México. Contiene información vital sobre la identidad y el estatus fiscal de los contribuyentes, ya sean personas físicas o morales.
 
 ## ¿Qué contiene la Constancia de Situación Fiscal?
@@ -16,8 +14,6 @@ Este documento actúa como una especie de "acta de nacimiento fiscal". Entre los
 ## ¿Para qué sirve y por qué te la piden?
 
 Recientemente, con las actualizaciones en las normativas de facturación electrónica (CFDI 4.0), las empresas y empleadores solicitan este documento de forma obligatoria para asegurarse de que los datos de nómina y facturación coincidan exactamente con los registros del SAT. Sin esto, no pueden emitir facturas ni recibos de nómina válidos.
-
-![Tramites SAT en linea](YAHAN_EK_AUR_IMAGE_KA_LINK_DAAL_DEIN.jpg)
 
 ## ¿Cómo tramitarla por internet fácilmente?
 
